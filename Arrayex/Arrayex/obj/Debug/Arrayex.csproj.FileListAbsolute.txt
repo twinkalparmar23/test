@@ -1,0 +1,7 @@
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\bin\Debug\Arrayex.exe.config
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\bin\Debug\Arrayex.exe
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\bin\Debug\Arrayex.pdb
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\obj\Debug\Arrayex.csprojAssemblyReference.cache
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\obj\Debug\Arrayex.csproj.CoreCompileInputs.cache
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\obj\Debug\Arrayex.exe
+C:\Users\twinkal\source\repos\Arrayex\Arrayex\obj\Debug\Arrayex.pdb
